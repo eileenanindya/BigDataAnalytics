@@ -1,0 +1,389 @@
+order_date,order_details_id,order_id,item_id,item_name,quantity,berat(kg),harga_total,bentuk_pembayaran
+45623,1,1001,1,ikan,3,1.3,84500,cash
+45623,2,1001,5,ongkos bakar,1,,37000,cash
+45623,3,1001,4,sambal lalapan,2,,12000,cash
+45623,4,1001,2,minum,1,,14000,cash
+45623,5,1002,2,minum,2,,28000,transfer
+45623,6,1002,4,sambal lalapan,2,,12000,transfer
+45623,7,1002,5,ongkos bakar,3,,111000,transfer
+45623,8,1002,6,ongkos goreng,2,,74000,transfer
+45623,9,1002,1,ikan,2,1.6,104000,transfer
+45614,10,1003,6,ongkos goreng,1,,37000,transfer
+45614,11,1003,5,ongkos bakar,2,,74000,transfer
+45614,12,1003,1,ikan,1,2.5,162500,transfer
+45614,13,1003,4,sambal lalapan,3,,18000,transfer
+45614,14,1003,2,minum,1,,14000,transfer
+45630,15,1004,2,minum,3,,42000,transfer
+45630,16,1004,3,urap urap,1,,7000,transfer
+45630,17,1004,1,ikan,1,2.3,149500,transfer
+45630,18,1004,5,ongkos bakar,1,,37000,transfer
+45609,19,1005,6,ongkos goreng,2,,74000,transfer
+45609,20,1005,4,sambal lalapan,3,,18000,transfer
+45609,21,1005,2,minum,2,,28000,transfer
+45609,22,1005,1,ikan,1,1.2,78000,transfer
+45627,23,1006,4,sambal lalapan,1,,6000,cash
+45627,24,1006,5,ongkos bakar,1,,37000,cash
+45627,25,1006,1,ikan,1,1.1,71500,cash
+45629,26,1007,6,ongkos goreng,1,,37000,cash
+45629,27,1007,5,ongkos bakar,3,,111000,cash
+45629,28,1007,1,ikan,2,2.8,182000,cash
+45621,29,1008,2,minum,2,,28000,qris
+45621,30,1008,4,sambal lalapan,3,,18000,qris
+45621,31,1008,3,urap urap,1,,7000,qris
+45621,32,1008,6,ongkos goreng,1,,37000,qris
+45621,33,1008,1,ikan,2,3.0,195000,qris
+45606,34,1009,5,ongkos bakar,2,,74000,cash
+45606,35,1009,2,minum,1,,14000,cash
+45606,36,1009,1,ikan,2,2.2,143000,cash
+45608,37,1010,2,minum,1,,14000,cash
+45608,38,1010,5,ongkos bakar,2,,74000,cash
+45608,39,1010,6,ongkos goreng,1,,37000,cash
+45608,40,1010,1,ikan,3,1.1,71500,cash
+45608,41,1010,4,sambal lalapan,1,,6000,cash
+45602,42,1011,3,urap urap,2,,14000,transfer
+45602,43,1011,5,ongkos bakar,2,,74000,transfer
+45602,44,1011,1,ikan,3,1.9,123500,transfer
+45629,45,1012,4,sambal lalapan,3,,18000,qris
+45629,46,1012,1,ikan,2,2.2,143000,qris
+45629,47,1012,5,ongkos bakar,1,,37000,qris
+45607,48,1013,6,ongkos goreng,2,,74000,cash
+45607,49,1013,1,ikan,1,2.7,175500,cash
+45607,50,1013,5,ongkos bakar,2,,74000,cash
+45607,51,1013,4,sambal lalapan,1,,6000,cash
+45604,52,1014,2,minum,3,,42000,cash
+45604,53,1014,1,ikan,2,1.2,78000,cash
+45604,54,1014,5,ongkos bakar,3,,111000,cash
+45603,55,1015,5,ongkos bakar,2,,74000,qris
+45603,56,1015,1,ikan,2,1.4,91000,qris
+45603,57,1015,6,ongkos goreng,1,,37000,qris
+45614,58,1016,2,minum,1,,14000,cash
+45614,59,1016,6,ongkos goreng,3,,111000,cash
+45614,60,1016,5,ongkos bakar,3,,111000,cash
+45614,61,1016,1,ikan,2,2.6,169000,cash
+45625,62,1017,3,urap urap,3,,21000,transfer
+45625,63,1017,5,ongkos bakar,1,,37000,transfer
+45625,64,1017,1,ikan,3,2.6,169000,transfer
+45613,65,1018,5,ongkos bakar,2,,74000,transfer
+45613,66,1018,1,ikan,2,1.7,110500,transfer
+45613,67,1018,6,ongkos goreng,2,,74000,transfer
+45613,68,1018,2,minum,1,,14000,transfer
+45613,69,1018,3,urap urap,1,,7000,transfer
+45629,70,1019,3,urap urap,1,,7000,qris
+45629,71,1019,1,ikan,2,1.6,104000,qris
+45629,72,1019,2,minum,2,,28000,qris
+45629,73,1019,5,ongkos bakar,3,,111000,qris
+45629,74,1019,4,sambal lalapan,3,,18000,qris
+45631,75,1020,2,minum,2,,28000,transfer
+45631,76,1020,3,urap urap,3,,21000,transfer
+45631,77,1020,1,ikan,3,3.0,195000,transfer
+45631,78,1020,6,ongkos goreng,1,,37000,transfer
+45619,79,1021,2,minum,1,,14000,cash
+45619,80,1021,1,ikan,1,2.9,188500,cash
+45619,81,1021,4,sambal lalapan,3,,18000,cash
+45619,82,1021,6,ongkos goreng,2,,74000,cash
+45611,83,1022,5,ongkos bakar,3,,111000,qris
+45611,84,1022,3,urap urap,3,,21000,qris
+45611,85,1022,4,sambal lalapan,3,,18000,qris
+45611,86,1022,1,ikan,1,2.5,162500,qris
+45606,87,1023,1,ikan,2,2.6,169000,cash
+45606,88,1023,3,urap urap,3,,21000,cash
+45606,89,1023,4,sambal lalapan,3,,18000,cash
+45606,90,1023,2,minum,2,,28000,cash
+45606,91,1023,6,ongkos goreng,1,,37000,cash
+45603,92,1024,2,minum,1,,14000,qris
+45603,93,1024,4,sambal lalapan,1,,6000,qris
+45603,94,1024,1,ikan,3,2.9,188500,qris
+45603,95,1024,6,ongkos goreng,1,,37000,qris
+45629,96,1025,3,urap urap,2,,14000,transfer
+45629,97,1025,2,minum,3,,42000,transfer
+45629,98,1025,5,ongkos bakar,3,,111000,transfer
+45629,99,1025,1,ikan,3,1.9,123500,transfer
+45626,100,1026,5,ongkos bakar,3,,111000,qris
+45626,101,1026,1,ikan,3,1.2,78000,qris
+45607,102,1027,3,urap urap,3,,21000,transfer
+45607,103,1027,5,ongkos bakar,1,,37000,transfer
+45607,104,1027,4,sambal lalapan,1,,6000,transfer
+45607,105,1027,1,ikan,3,1.5,97500,transfer
+45612,106,1028,1,ikan,2,2.6,169000,qris
+45612,107,1028,3,urap urap,2,,14000,qris
+45612,108,1028,6,ongkos goreng,2,,74000,qris
+45606,109,1029,3,urap urap,2,,14000,qris
+45606,110,1029,2,minum,3,,42000,qris
+45606,111,1029,4,sambal lalapan,2,,12000,qris
+45606,112,1029,6,ongkos goreng,1,,37000,qris
+45606,113,1029,5,ongkos bakar,3,,111000,qris
+45606,114,1029,1,ikan,1,2.2,143000,qris
+45625,115,1030,5,ongkos bakar,3,,111000,transfer
+45625,116,1030,3,urap urap,3,,21000,transfer
+45625,117,1030,1,ikan,2,3.0,195000,transfer
+45619,118,1031,1,ikan,3,1.9,123500,qris
+45619,119,1031,2,minum,3,,42000,qris
+45619,120,1031,4,sambal lalapan,2,,12000,qris
+45619,121,1031,3,urap urap,1,,7000,qris
+45619,122,1031,6,ongkos goreng,1,,37000,qris
+45614,123,1032,6,ongkos goreng,3,,111000,transfer
+45614,124,1032,1,ikan,2,2.8,182000,transfer
+45626,125,1033,1,ikan,1,1.8,117000,qris
+45626,126,1033,6,ongkos goreng,2,,74000,qris
+45626,127,1033,2,minum,1,,14000,qris
+45609,128,1034,4,sambal lalapan,3,,18000,cash
+45609,129,1034,2,minum,3,,42000,cash
+45609,130,1034,1,ikan,3,2.8,182000,cash
+45609,131,1034,6,ongkos goreng,1,,37000,cash
+45614,132,1035,1,ikan,1,2.1,136500,transfer
+45614,133,1035,4,sambal lalapan,3,,18000,transfer
+45614,134,1035,2,minum,2,,28000,transfer
+45614,135,1035,6,ongkos goreng,1,,37000,transfer
+45612,136,1036,2,minum,2,,28000,transfer
+45612,137,1036,4,sambal lalapan,2,,12000,transfer
+45612,138,1036,1,ikan,2,1.3,84500,transfer
+45612,139,1036,5,ongkos bakar,1,,37000,transfer
+45612,140,1036,6,ongkos goreng,3,,111000,transfer
+45627,141,1037,6,ongkos goreng,3,,111000,cash
+45627,142,1037,1,ikan,2,2.2,143000,cash
+45627,143,1037,4,sambal lalapan,2,,12000,cash
+45627,144,1037,3,urap urap,1,,7000,cash
+45626,145,1038,4,sambal lalapan,2,,12000,transfer
+45626,146,1038,3,urap urap,2,,14000,transfer
+45626,147,1038,5,ongkos bakar,3,,111000,transfer
+45626,148,1038,1,ikan,2,2.7,175500,transfer
+45624,149,1039,1,ikan,2,1.1,71500,cash
+45624,150,1039,4,sambal lalapan,2,,12000,cash
+45624,151,1039,6,ongkos goreng,3,,111000,cash
+45622,152,1040,5,ongkos bakar,3,,111000,qris
+45622,153,1040,1,ikan,3,2.3,149500,qris
+45622,154,1040,3,urap urap,2,,14000,qris
+45622,155,1040,6,ongkos goreng,2,,74000,qris
+45622,156,1040,2,minum,2,,28000,qris
+45609,157,1041,4,sambal lalapan,3,,18000,cash
+45609,158,1041,6,ongkos goreng,3,,111000,cash
+45609,159,1041,2,minum,3,,42000,cash
+45609,160,1041,1,ikan,3,2.5,162500,cash
+45603,161,1042,2,minum,1,,14000,qris
+45603,162,1042,3,urap urap,3,,21000,qris
+45603,163,1042,1,ikan,3,2.9,188500,qris
+45603,164,1042,5,ongkos bakar,3,,111000,qris
+45604,165,1043,5,ongkos bakar,1,,37000,transfer
+45604,166,1043,4,sambal lalapan,3,,18000,transfer
+45604,167,1043,1,ikan,2,2.5,162500,transfer
+45623,168,1044,5,ongkos bakar,1,,37000,qris
+45623,169,1044,1,ikan,2,2.3,149500,qris
+45602,170,1045,6,ongkos goreng,2,,74000,cash
+45602,171,1045,3,urap urap,3,,21000,cash
+45602,172,1045,1,ikan,1,2.7,175500,cash
+45617,173,1046,6,ongkos goreng,2,,74000,transfer
+45617,174,1046,4,sambal lalapan,1,,6000,transfer
+45617,175,1046,2,minum,2,,28000,transfer
+45617,176,1046,3,urap urap,3,,21000,transfer
+45617,177,1046,1,ikan,2,2.4,156000,transfer
+45614,178,1047,6,ongkos goreng,1,,37000,cash
+45614,179,1047,2,minum,3,,42000,cash
+45614,180,1047,3,urap urap,1,,7000,cash
+45614,181,1047,5,ongkos bakar,3,,111000,cash
+45614,182,1047,4,sambal lalapan,3,,18000,cash
+45614,183,1047,1,ikan,1,1.3,84500,cash
+45615,184,1048,4,sambal lalapan,3,,18000,cash
+45615,185,1048,1,ikan,1,2.3,149500,cash
+45615,186,1048,3,urap urap,3,,21000,cash
+45615,187,1048,5,ongkos bakar,1,,37000,cash
+45619,188,1049,4,sambal lalapan,2,,12000,qris
+45619,189,1049,1,ikan,3,2.4,156000,qris
+45619,190,1049,5,ongkos bakar,1,,37000,qris
+45619,191,1049,2,minum,3,,42000,qris
+45619,192,1049,3,urap urap,3,,21000,qris
+45619,193,1050,3,urap urap,1,,7000,qris
+45619,194,1050,6,ongkos goreng,3,,111000,qris
+45619,195,1050,5,ongkos bakar,3,,111000,qris
+45619,196,1050,1,ikan,2,1.9,123500,qris
+45619,197,1050,4,sambal lalapan,3,,18000,qris
+45621,198,1051,2,minum,2,,28000,cash
+45621,199,1051,1,ikan,2,1.2,78000,cash
+45621,200,1051,4,sambal lalapan,3,,18000,cash
+45621,201,1051,6,ongkos goreng,3,,111000,cash
+45624,202,1052,1,ikan,3,2.4,156000,transfer
+45624,203,1052,6,ongkos goreng,2,,74000,transfer
+45602,204,1053,3,urap urap,2,,14000,cash
+45602,205,1053,2,minum,1,,14000,cash
+45602,206,1053,1,ikan,1,3.0,195000,cash
+45602,207,1053,6,ongkos goreng,3,,111000,cash
+45622,208,1054,4,sambal lalapan,3,,18000,transfer
+45622,209,1054,5,ongkos bakar,3,,111000,transfer
+45622,210,1054,1,ikan,2,1.3,84500,transfer
+45602,211,1055,2,minum,3,,42000,transfer
+45602,212,1055,5,ongkos bakar,1,,37000,transfer
+45602,213,1055,1,ikan,3,1.6,104000,transfer
+45610,214,1056,1,ikan,2,1.7,110500,transfer
+45610,215,1056,2,minum,2,,28000,transfer
+45610,216,1056,5,ongkos bakar,2,,74000,transfer
+45610,217,1056,6,ongkos goreng,3,,111000,transfer
+45614,218,1057,4,sambal lalapan,1,,6000,cash
+45614,219,1057,1,ikan,2,1.4,91000,cash
+45614,220,1057,5,ongkos bakar,3,,111000,cash
+45614,221,1057,6,ongkos goreng,2,,74000,cash
+45607,222,1058,4,sambal lalapan,1,,6000,cash
+45607,223,1058,1,ikan,2,2.8,182000,cash
+45607,224,1058,3,urap urap,1,,7000,cash
+45607,225,1058,5,ongkos bakar,3,,111000,cash
+45620,226,1059,3,urap urap,1,,7000,transfer
+45620,227,1059,5,ongkos bakar,2,,74000,transfer
+45620,228,1059,1,ikan,1,3.0,195000,transfer
+45603,229,1060,4,sambal lalapan,2,,12000,transfer
+45603,230,1060,5,ongkos bakar,3,,111000,transfer
+45603,231,1060,2,minum,1,,14000,transfer
+45603,232,1060,6,ongkos goreng,2,,74000,transfer
+45603,233,1060,3,urap urap,3,,21000,transfer
+45603,234,1060,1,ikan,1,1.7,110500,transfer
+45605,235,1061,3,urap urap,1,,7000,cash
+45605,236,1061,6,ongkos goreng,3,,111000,cash
+45605,237,1061,2,minum,2,,28000,cash
+45605,238,1061,1,ikan,3,1.4,91000,cash
+45605,239,1061,5,ongkos bakar,1,,37000,cash
+45619,240,1062,5,ongkos bakar,3,,111000,qris
+45619,241,1062,3,urap urap,3,,21000,qris
+45619,242,1062,1,ikan,1,2.2,143000,qris
+45620,243,1063,6,ongkos goreng,2,,74000,cash
+45620,244,1063,2,minum,2,,28000,cash
+45620,245,1063,1,ikan,1,1.4,91000,cash
+45620,246,1063,4,sambal lalapan,1,,6000,cash
+45620,247,1063,5,ongkos bakar,3,,111000,cash
+45605,248,1064,3,urap urap,3,,21000,transfer
+45605,249,1064,6,ongkos goreng,1,,37000,transfer
+45605,250,1064,4,sambal lalapan,3,,18000,transfer
+45605,251,1064,1,ikan,3,2.5,162500,transfer
+45610,252,1065,4,sambal lalapan,3,,18000,cash
+45610,253,1065,2,minum,1,,14000,cash
+45610,254,1065,5,ongkos bakar,1,,37000,cash
+45610,255,1065,1,ikan,3,2.8,182000,cash
+45608,256,1066,1,ikan,3,2.5,162500,qris
+45608,257,1066,3,urap urap,2,,14000,qris
+45608,258,1066,5,ongkos bakar,1,,37000,qris
+45608,259,1066,4,sambal lalapan,3,,18000,qris
+45608,260,1066,6,ongkos goreng,3,,111000,qris
+45620,261,1067,5,ongkos bakar,2,,74000,qris
+45620,262,1067,1,ikan,3,1.1,71500,qris
+45620,263,1067,3,urap urap,2,,14000,qris
+45620,264,1067,4,sambal lalapan,3,,18000,qris
+45604,265,1068,5,ongkos bakar,1,,37000,cash
+45604,266,1068,6,ongkos goreng,1,,37000,cash
+45604,267,1068,1,ikan,2,1.9,123500,cash
+45625,268,1069,1,ikan,1,2.1,136500,cash
+45625,269,1069,6,ongkos goreng,3,,111000,cash
+45628,270,1070,2,minum,1,,14000,qris
+45628,271,1070,1,ikan,1,1.2,78000,qris
+45628,272,1070,6,ongkos goreng,1,,37000,qris
+45606,273,1071,5,ongkos bakar,3,,111000,qris
+45606,274,1071,3,urap urap,3,,21000,qris
+45606,275,1071,1,ikan,1,2.8,182000,qris
+45625,276,1072,2,minum,1,,14000,qris
+45625,277,1072,3,urap urap,1,,7000,qris
+45625,278,1072,1,ikan,3,1.6,104000,qris
+45625,279,1072,5,ongkos bakar,3,,111000,qris
+45623,280,1073,5,ongkos bakar,2,,74000,qris
+45623,281,1073,6,ongkos goreng,1,,37000,qris
+45623,282,1073,4,sambal lalapan,1,,6000,qris
+45623,283,1073,1,ikan,2,2.6,169000,qris
+45621,284,1074,2,minum,3,,42000,transfer
+45621,285,1074,5,ongkos bakar,1,,37000,transfer
+45621,286,1074,4,sambal lalapan,1,,6000,transfer
+45621,287,1074,1,ikan,2,1.1,71500,transfer
+45621,288,1074,6,ongkos goreng,1,,37000,transfer
+45603,289,1075,1,ikan,3,2.7,175500,qris
+45603,290,1075,6,ongkos goreng,2,,74000,qris
+45616,291,1076,4,sambal lalapan,3,,18000,qris
+45616,292,1076,5,ongkos bakar,2,,74000,qris
+45616,293,1076,2,minum,1,,14000,qris
+45616,294,1076,6,ongkos goreng,1,,37000,qris
+45616,295,1076,1,ikan,3,1.3,84500,qris
+45606,296,1077,4,sambal lalapan,1,,6000,cash
+45606,297,1077,3,urap urap,3,,21000,cash
+45606,298,1077,1,ikan,1,2.8,182000,cash
+45606,299,1077,2,minum,1,,14000,cash
+45606,300,1077,5,ongkos bakar,2,,74000,cash
+45616,301,1078,6,ongkos goreng,3,,111000,cash
+45616,302,1078,4,sambal lalapan,1,,6000,cash
+45616,303,1078,1,ikan,3,1.7,110500,cash
+45611,304,1079,6,ongkos goreng,1,,37000,cash
+45611,305,1079,5,ongkos bakar,3,,111000,cash
+45611,306,1079,4,sambal lalapan,1,,6000,cash
+45611,307,1079,1,ikan,3,2.6,169000,cash
+45624,308,1080,1,ikan,3,1.3,84500,qris
+45624,309,1080,4,sambal lalapan,1,,6000,qris
+45624,310,1080,6,ongkos goreng,2,,74000,qris
+45624,311,1081,3,urap urap,1,,7000,qris
+45624,312,1081,2,minum,3,,42000,qris
+45624,313,1081,1,ikan,2,1.5,97500,qris
+45624,314,1081,6,ongkos goreng,1,,37000,qris
+45631,315,1082,1,ikan,3,2.0,130000,transfer
+45631,316,1082,4,sambal lalapan,3,,18000,transfer
+45631,317,1082,6,ongkos goreng,2,,74000,transfer
+45617,318,1083,2,minum,1,,14000,qris
+45617,319,1083,4,sambal lalapan,2,,12000,qris
+45617,320,1083,1,ikan,3,2.6,169000,qris
+45617,321,1083,5,ongkos bakar,2,,74000,qris
+45630,322,1084,2,minum,1,,14000,qris
+45630,323,1084,4,sambal lalapan,1,,6000,qris
+45630,324,1084,1,ikan,3,2.7,175500,qris
+45630,325,1084,6,ongkos goreng,2,,74000,qris
+45627,326,1085,5,ongkos bakar,2,,74000,cash
+45627,327,1085,6,ongkos goreng,2,,74000,cash
+45627,328,1085,1,ikan,2,1.0,65000,cash
+45603,329,1086,1,ikan,3,2.2,143000,qris
+45603,330,1086,3,urap urap,1,,7000,qris
+45603,331,1086,5,ongkos bakar,3,,111000,qris
+45616,332,1087,5,ongkos bakar,1,,37000,transfer
+45616,333,1087,2,minum,3,,42000,transfer
+45616,334,1087,4,sambal lalapan,2,,12000,transfer
+45616,335,1087,1,ikan,2,2.2,143000,transfer
+45624,336,1088,3,urap urap,2,,14000,transfer
+45624,337,1088,5,ongkos bakar,1,,37000,transfer
+45624,338,1088,1,ikan,1,1.3,84500,transfer
+45625,339,1089,1,ikan,2,1.5,97500,qris
+45625,340,1089,2,minum,2,,28000,qris
+45625,341,1089,6,ongkos goreng,1,,37000,qris
+45624,342,1090,3,urap urap,1,,7000,cash
+45624,343,1090,2,minum,1,,14000,cash
+45624,344,1090,1,ikan,3,2.1,136500,cash
+45624,345,1090,6,ongkos goreng,2,,74000,cash
+45628,346,1091,3,urap urap,3,,21000,transfer
+45628,347,1091,1,ikan,1,1.8,117000,transfer
+45628,348,1091,4,sambal lalapan,2,,12000,transfer
+45628,349,1091,5,ongkos bakar,1,,37000,transfer
+45617,350,1092,5,ongkos bakar,1,,37000,transfer
+45617,351,1092,3,urap urap,1,,7000,transfer
+45617,352,1092,1,ikan,1,2.0,130000,transfer
+45617,353,1092,6,ongkos goreng,1,,37000,transfer
+45617,354,1092,2,minum,1,,14000,transfer
+45601,355,1093,6,ongkos goreng,3,,111000,cash
+45601,356,1093,4,sambal lalapan,3,,18000,cash
+45601,357,1093,1,ikan,2,1.7,110500,cash
+45610,358,1094,6,ongkos goreng,1,,37000,qris
+45610,359,1094,2,minum,1,,14000,qris
+45610,360,1094,3,urap urap,2,,14000,qris
+45610,361,1094,1,ikan,1,1.7,110500,qris
+45610,362,1094,5,ongkos bakar,2,,74000,qris
+45611,363,1095,3,urap urap,1,,7000,qris
+45611,364,1095,6,ongkos goreng,2,,74000,qris
+45611,365,1095,4,sambal lalapan,1,,6000,qris
+45611,366,1095,5,ongkos bakar,1,,37000,qris
+45611,367,1095,1,ikan,1,2.8,182000,qris
+45612,368,1096,5,ongkos bakar,2,,74000,cash
+45612,369,1096,2,minum,3,,42000,cash
+45612,370,1096,4,sambal lalapan,3,,18000,cash
+45612,371,1096,3,urap urap,1,,7000,cash
+45612,372,1096,1,ikan,3,2.3,149500,cash
+45618,373,1097,3,urap urap,1,,7000,cash
+45618,374,1097,2,minum,2,,28000,cash
+45618,375,1097,6,ongkos goreng,2,1.2,74000,cash
+45618,376,1097,1,ikan,2,,78000,cash
+45621,377,1098,5,ongkos bakar,1,,37000,cash
+45621,378,1098,1,ikan,3,1.0,65000,cash
+45621,379,1098,3,urap urap,1,,7000,cash
+45621,380,1098,4,sambal lalapan,2,,12000,cash
+45628,381,1099,1,ikan,1,2.4,156000,qris
+45628,382,1099,5,ongkos bakar,1,,37000,qris
+45628,383,1099,6,ongkos goreng,2,,74000,qris
+45607,384,1100,4,sambal lalapan,2,,12000,cash
+45607,385,1100,3,urap urap,3,,21000,cash
+45607,386,1100,1,ikan,3,2.9,188500,cash
+45607,387,1100,6,ongkos goreng,2,,74000,cash
+45607,388,1100,2,minum,2,,28000,cash
